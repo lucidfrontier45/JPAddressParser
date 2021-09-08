@@ -24,4 +24,5 @@ This project is managed with [Poetry](https://python-poetry.org/).
 
 ```sh
 poetry install
+poetry run python setup.py develop
 ```
