@@ -5,6 +5,7 @@ from marisa_trie import Trie
 
 from .download import default_file_name, default_output_dir, download_csv
 from .utils import normalize, read_japan_post_data
+from .version import __version__  # noqa
 
 
 @dataclass(frozen=True)
