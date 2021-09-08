@@ -1,6 +1,8 @@
 # JPAddressParser
 Parser of Japanese Addresses
 
+This implementation uses address data which Japan Post publishes and the Trie for prefix search.
+
 ## Install
 
 ```sh
